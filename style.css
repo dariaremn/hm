@@ -1,0 +1,106 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+}
+.nav-porsche {
+}
+.first-section {
+
+}
+.img-burger {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 13px;
+    
+}
+.porsch {
+    width: 150px;
+    height: 80px;
+    margin-left: 460px;
+    margin-top: 5px;
+}
+.map {
+    width: 60px;
+    height: 60px;
+    margin-left: 400px;
+    margin-bottom: 10px;
+}
+.porsche {
+
+}
+.img-porsche-pict{
+
+}
+.h1-main {
+    position: relative;
+    margin-top: -200px;
+    color: white;
+    padding-left: 200px;
+    font-size: 45px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+.p-main {
+    color: white;
+    margin-left: 205px;
+    font-size: 25px;
+    margin-top: 5px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+.info {
+    position: relative;
+background: rgba(0, 0, 0, 0.328);
+height: 80px;
+
+
+}
+.tel-main {
+    position: relative;
+    margin-left: 200px;
+    margin-top: 25px;
+}
+.tel-img {
+    position: ab;
+    width: 50px;
+    height: 50px;
+}
+.tel-text {
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+.test-drive-main {
+    margin-left: 500px;
+    margin-top: -53px;
+}
+.img-test-drive {
+    width: 50px;
+    height: 50px;
+}
+.test-drive-span {
+    color: whitesmoke;
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+.que-main {
+    margin-left: 800px;
+    margin-top: -53px;
+}
+.que-img {
+    width: 50px;
+    height: 50px;
+}
+.que-span {
+color: aliceblue;
+font-family: "Roboto", sans-serif;
+font-weight: 100;
+font-style: normal;
+}
